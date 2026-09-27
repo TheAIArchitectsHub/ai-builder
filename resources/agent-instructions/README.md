@@ -1,6 +1,12 @@
 # Agent instructions
 
-This section will contain reusable instruction packs for AI coding agents.
+This section contains reusable instruction packs for AI coding agents.
+
+## Available packs
+
+| Pack | Purpose | Files |
+| --- | --- | --- |
+| [Professional Coding Agent Contract](professional-coding-agent/) | Evidence-led, security-conscious repository workflow for coding agents | [`AGENTS.md`](professional-coding-agent/AGENTS.md) · [`CLAUDE.md`](professional-coding-agent/CLAUDE.md) |
 
 ## Where `AGENTS.md` and `CLAUDE.md` belong
 
@@ -47,4 +53,3 @@ A strong instruction pack normally defines:
 - Completion and handoff expectations
 
 Keep rules specific, testable, and short enough to follow. Separate your universal principles from language- or framework-specific guidance when the pack grows.
-
