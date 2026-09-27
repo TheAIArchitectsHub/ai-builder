@@ -1,6 +1,10 @@
+<!-- Owner: TheAIArchitectsHub | Usage: Place this file at the root of a repository as AGENTS.md. -->
+
 # AGENTS.md
 
-> Repository operating contract for coding agents.
+> Repository operating contract for coding agents, ready for direct developer use.
+
+**Owner and maintainer:** [TheAIArchitectsHub](https://github.com/TheAIArchitectsHub)
 
 ## Objective
 
