@@ -157,7 +157,7 @@ Keep local instructions focused on what genuinely differs.
 
 ---
 
-## 9. Communicate Precisely
+## 9. Communicate Precisely (My Fav and Saves lots of tokens and load)
 
 Keep communication proportional to the task.
 
