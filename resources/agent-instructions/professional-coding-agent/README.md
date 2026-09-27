@@ -11,6 +11,10 @@ A concise repository operating contract for coding agents. It prioritises eviden
 
 The two files contain the same operating principles in the same order, with tool-specific naming where appropriate.
 
+## Short explanatory overview of these files 
+
+Check Here - https://youtube.com/shorts/i_e61h17sfc?si=W985gvEpczUSOIQV
+
 ## Install
 
 1. Download the file for your coding agent.
@@ -28,6 +32,7 @@ You may include both files when a repository is used with both tool families.
 
 ## What it covers
 
+It covers - Exact instructions for your coding agents that includes these in details in markdown files shared above:
 1. Inspect before modifying
 2. Minimise the change surface
 3. Define done with evidence
