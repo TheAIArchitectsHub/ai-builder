@@ -1,6 +1,10 @@
+<!-- Owner: TheAIArchitectsHub | Usage: Place this file at the root of a repository as CLAUDE.md. -->
+
 # CLAUDE.md
 
-> Repository operating contract for Claude Code.
+> Repository operating contract for Claude Code, ready for direct developer use.
+
+**Owner and maintainer:** [TheAIArchitectsHub](https://github.com/TheAIArchitectsHub)
 
 ## Objective
 
@@ -153,7 +157,7 @@ Keep local instructions focused on what genuinely differs.
 
 ---
 
-## 9. Communicate Precisely
+## 9. Communicate Precisely (My Fav and Saves lot)
 
 Keep communication proportional to the task.
 
