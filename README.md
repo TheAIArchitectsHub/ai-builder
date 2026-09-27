@@ -1,18 +1,21 @@
 <p align="center">
-  <img src="assets/ai-builder-banner.svg" alt="AI Builder — practical patterns, useful resources, real systems" width="100%">
+  <a href="https://theaiarchitectshub.com/">
+    <img src="assets/the-ai-architects-hub-logo.png" alt="The AI Architects Hub" width="260">
+  </a>
 </p>
 
 <h1 align="center">AI Builder</h1>
 
 <p align="center">
+  <strong>by The AI Architects Hub</strong><br><br>
   <strong>A practical, growing library for people who build, design, and lead with AI.</strong><br>
   Clear instructions, reusable templates, proven playbooks, useful checklists, and working examples.
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheAIArchitectsHub/ai-builder/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/TheAIArchitectsHub/ai-builder?style=for-the-badge&logo=github&color=7c8cff"></a>
-  <a href="https://github.com/TheAIArchitectsHub/ai-builder/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/TheAIArchitectsHub/ai-builder?style=for-the-badge&logo=git&color=54b8d7"></a>
-  <a href="https://github.com/TheAIArchitectsHub/ai-builder"><img alt="Public repository" src="https://img.shields.io/badge/REPOSITORY-PUBLIC-28a745?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/TheAIArchitectsHub/ai-builder/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/TheAIArchitectsHub/ai-builder?style=for-the-badge&logo=github&labelColor=151515&color=c79718"></a>
+  <a href="https://github.com/TheAIArchitectsHub/ai-builder/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/TheAIArchitectsHub/ai-builder?style=for-the-badge&logo=git&labelColor=151515&color=c79718"></a>
+  <a href="https://github.com/TheAIArchitectsHub/ai-builder"><img alt="Public repository" src="https://img.shields.io/badge/REPOSITORY-PUBLIC-c79718?style=for-the-badge&logo=github&labelColor=151515"></a>
 </p>
 
 <p align="center">
