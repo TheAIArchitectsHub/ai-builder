@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">AI Builder by The AI Architects Hub</title>
+  <desc id="desc">A dark architectural blueprint banner with connected AI nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#111b35"/>
+      <stop offset="1" stop-color="#17122b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54d7ff"/>
+      <stop offset="0.5" stop-color="#7c8cff"/>
+      <stop offset="1" stop-color="#c16cff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6fe4ff" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#6fe4ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8fb8d8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="rounded"><rect width="1200" height="360" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1015" cy="165" r="270" fill="url(#glow)"/>
+    <circle cx="1050" cy="70" r="170" fill="#b46cff" opacity="0.07"/>
+
+    <g fill="none" stroke="#75dcff" stroke-opacity="0.30" stroke-width="1.5">
+      <path d="M750 90L850 55L945 112L1045 70L1145 132"/>
+      <path d="M790 215L875 155L975 205L1075 145L1180 210"/>
+      <path d="M850 55L875 155M945 112L975 205M1045 70L1075 145"/>
+      <path d="M875 155L945 112M975 205L1075 145"/>
+    </g>
+
+    <g filter="url(#softGlow)">
+      <g fill="#07111f" stroke="#64dfff" stroke-width="3">
+        <circle cx="750" cy="90" r="8"/><circle cx="850" cy="55" r="10"/>
+        <circle cx="945" cy="112" r="14"/><circle cx="1045" cy="70" r="9"/>
+        <circle cx="1145" cy="132" r="11"/><circle cx="790" cy="215" r="9"/>
+        <circle cx="875" cy="155" r="13"/><circle cx="975" cy="205" r="10"/>
+        <circle cx="1075" cy="145" r="14"/><circle cx="1180" cy="210" r="8"/>
+      </g>
+      <circle cx="945" cy="112" r="5" fill="#c16cff"/>
+      <circle cx="1075" cy="145" r="5" fill="#7c8cff"/>
+    </g>
+
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="72" y="86" fill="#7ee6ff" font-size="17" font-weight="600" letter-spacing="4">THE AI ARCHITECTS HUB</text>
+      <text x="68" y="173" fill="#f3f7ff" font-size="68" font-weight="750" letter-spacing="-2">AI BUILDER</text>
+      <rect x="72" y="196" width="410" height="4" rx="2" fill="url(#accent)"/>
+      <text x="72" y="240" fill="#bdcbe0" font-size="22">Practical patterns. Useful resources. Real systems.</text>
+      <text x="72" y="286" fill="#8395ad" font-size="16">BUILD  •  ARCHITECT  •  INNOVATE</text>
+    </g>
+
+    <g transform="translate(735 274)" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+      <rect width="112" height="34" rx="17" fill="#54d7ff" fill-opacity="0.12" stroke="#54d7ff" stroke-opacity="0.42"/>
+      <text x="56" y="22" fill="#9ceaff" text-anchor="middle">OPEN SOURCE</text>
+      <rect x="124" width="116" height="34" rx="17" fill="#7c8cff" fill-opacity="0.12" stroke="#7c8cff" stroke-opacity="0.42"/>
+      <text x="182" y="22" fill="#bdc6ff" text-anchor="middle">BUILDER-FIRST</text>
+      <rect x="252" width="108" height="34" rx="17" fill="#c16cff" fill-opacity="0.12" stroke="#c16cff" stroke-opacity="0.42"/>
+      <text x="306" y="22" fill="#e0b2ff" text-anchor="middle">PRACTICAL</text>
+    </g>
+  </g>
+</svg>
